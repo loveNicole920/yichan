@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>医忏</title>
+    <style>   
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <h2>医忏的个人网站</h2>
+  <body>
+    <div style="
+      background-color:#f1f1f1;
+      text-align:center;
+      padding: 40px;
+    ">
+      <img src='https://i.postimg.cc/QMFtdws3/image.jpg' alt="医忏" width="80px" height="80px"
+    </div>
+    <div style="
+      max-width: 700px;
+      margin: 30px auto;
+      padding: 15px;
+      line-height: 1.5;
+    ">
+      <p>hello~这里是医忏的个人网站，毫无疑问我就是医忏）</p>
+      <p>Nicole是我的女友哦:)</p>
+      <audio controls height="100" width="100">
+      <source src="要不要买菜 - 火红的萨日朗.mp3" type="audio/mpeg">
+      <source src="要不要买菜 - 火红的萨日朗.ogg" type="audio/ogg">
+      <embed height="50" width="100" src="要不要买菜 - 火红的萨日朗.mp3">
+      </audio>
+      <hr>
+      <p>欢迎来到这里的朋友！</p>
+      <p>第一次搭建网站不知道应该在这里说什么TT</p>
+      <p>既然你能看到这段话那就说明我的网页大抵是搭建成功了（）</p>
+      <p>很高兴见到大家！</p>
+      <p>未来可能会打算在这里更新一些日程、计划之类的东西~</p>
+    </div>
+    <div style="
+      background-color:#f1f1f1;
+      text-align:center;
+      padding: 40px;
+    ">
+    <p>下面是一些我的账号：</p>
+    <a href="https://space.bilibili.com/276263618">我的b站</a>
+    <p></p>
+    <a href="https://music.163.com/#/user/home?id=1307219338">我的网易云音乐</a>
+    <p></p>
+    <a href="https://www.zhihu.com/people/chi-dao-shui">我的知乎</a>
+    </div>
+  </body>
+</html>
